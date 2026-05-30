@@ -183,8 +183,6 @@ Validating: ret %eax -> [ERROR] 'ret' expects 0 operands, found 1
 
 ![Invalid Test Results](results/test_bad_output.png)
 
-> Replace the image filenames above with your actual screenshot names inside the `results/` folder.
-
 ---
 
 ## Technologies Used
