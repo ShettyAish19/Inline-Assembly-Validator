@@ -173,15 +173,15 @@ Validating: ret %eax -> [ERROR] 'ret' expects 0 operands, found 1
 
 ### Build Successful
 
-![Build Output](results/build_output.png)
+![Build Output](results/S1.png)
 
 ### Valid Assembly Test Results
 
-![Valid Test Results](results/test_good_output.png)
+![Valid Test Results](results/S2.png)
 
 ### Invalid Assembly Test Results
 
-![Invalid Test Results](results/test_bad_output.png)
+![Invalid Test Results](results/S3.png)
 
 ---
 
